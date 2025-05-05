@@ -21,7 +21,6 @@ I challenge myself to explore digital agriculture through Earth observation and 
 Ph.D. Student in Biosystems Engineering  
 [Department of Agricultural & Biological Engineering](https://www.abe.msstate.edu/)  
 [Geospatial Computing for Environmental Research Lab (GCER)](https://www.gcerlab.com/)
-
 Mississippi State University  
 📧 jd2725(at)msstate.edu  
 
