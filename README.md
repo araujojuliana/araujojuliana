@@ -1,16 +1,41 @@
-## Hi there 👋
+<p align="left">
+  <a href="https://orcid.org/0009-0007-7889-7881" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-iD-green?logo=orcid&style=flat-square" alt="ORCID Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juliana-abreu-araujo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-<!--
-**araujojuliana/araujojuliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! I'm Juliana! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a remote sensing researcher and a geospatial data scientist, currently pursuing a PhD in Biosystems Engineering.  
+I challenge myself to explore digital agriculture through Earth observation and data science.
+
+---
+
+### 👩‍🎓 About Me
+
+**Juliana de Abreu Araujo**  
+Ph.D. Student in Biosystems Engineering  
+[Department of Agricultural & Biological Engineering](https://www.abe.msstate.edu/)  
+Mississippi State University  
+📧 jd2725(at)msstate.edu  
+
+---
+
+### 🎓 Education
+
+- **M.S. in Remote Sensing** – Brazilian Institute for Space Research (INPE), 2023  
+- **B.S. in Environmental Engineering** – São Paulo State University (UNESP), 2020  
+
+---
+
+### 🔬 Research Interests
+
+- Remote Sensing  
+- Geospatial Data Science  
+- Machine Learning  
+- Crop Monitoring  
+- Digital Agriculture 
