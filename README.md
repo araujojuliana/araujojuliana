@@ -20,8 +20,8 @@ I challenge myself to explore digital agriculture through Earth observation and 
 **Juliana de Abreu Araujo**  
 Ph.D. Student in Biosystems Engineering  
 [Department of Agricultural & Biological Engineering](https://www.abe.msstate.edu/)  
-[Geospatial Computing for Environmental Research Lab (GCER)](https://www.gcerlab.com/)
-Mississippi State University  
+[Geospatial Computing for Environmental Research Lab (GCER)](https://www.gcerlab.com/)<br>
+Mississippi State University<br>
 📧 jd2725(at)msstate.edu  
 
 ---
