@@ -10,8 +10,7 @@
 ## Hey! I'm Juliana! 👋
 
 
-I'm a remote sensing researcher and a geospatial data scientist, currently pursuing a PhD in Biosystems Engineering.  
-I challenge myself to explore digital agriculture through Earth observation and data science.
+I'm a remote sensing researcher and geospatial data scientist, currently pursuing a Ph.D. in Biosystems Engineering. I explore digital agriculture and forest monitoring through Earth observation and data science, aiming to develop scalable geospatial solutions for sustainable land management.
 
 ---
 
